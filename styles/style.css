@@ -1,0 +1,35 @@
+html {
+    font-family: 'Tangerine', serif;
+    font-size: 14px;
+    background-color: #00539f;
+    /* this is a example command */
+}
+
+body {
+    width: 600px;
+    margin: 10px auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+}
+
+p, li {
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
